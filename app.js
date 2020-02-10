@@ -1,4 +1,4 @@
-alert("HELLO FROM APP.JS");
+alert("Welcome to my first website: Be proud of me!");
 var pics = [
     "imgs/kitty_bed.jpg",
     "imgs/kitty_basket.jpg",
